@@ -4,11 +4,15 @@
   "description": "A package for the szlk project, which contains the translations for the front-end",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "build":"webpack --config ./webpack.conf.js"
   },
   "keywords": [
     "translation"
   ],
   "author": "ali",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "json-loader": "^0.5.4"
+  }
 }
