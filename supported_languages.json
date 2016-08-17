@@ -1,0 +1,14 @@
+{
+  "en":{
+    "message_id":"app.lang.english",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+  },
+  "de":{
+    "message_id":"app.lang.german",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+  },
+  "tr":{
+    "message_id":"app.lang.turkish",
+    "flag":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+  }
+}
