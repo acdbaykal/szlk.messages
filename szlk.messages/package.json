@@ -1,0 +1,14 @@
+{
+  "name": "szlk.messages",
+  "version": "0.0.0",
+  "description": "A paykage for the szlk project, which contains the translations for the front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "translation"
+  ],
+  "author": "ali",
+  "license": "ISC"
+}
